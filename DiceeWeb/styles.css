@@ -1,0 +1,35 @@
+body{
+  background-color: navy;
+  font-family: 'Helvetica', sans-serif;
+  text-align: center;
+  color: #fff;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+.container{
+  background-color: powderblue;
+  margin:0 auto;
+}
+h1{
+  font-size: 6rem;
+}
+
+img{
+  display: inline-block;
+  margin: 0;
+  width: 80%;
+}
+
+p{
+  font-size: 2rem;
+  font-family: 'Arial', sans-serif;
+}
+
+.foot{
+  font-size: 1rem;
+  color: orange;
+  margin-top: 5%;
+}
